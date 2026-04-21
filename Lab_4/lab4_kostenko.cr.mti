@@ -1,0 +1,15 @@
+D:/quartus_2/model/modelsim_ase/examples/lab4_kostenko/schema_for_dknf.v {1 {vlog -work work -nocovercells D:/quartus_2/model/modelsim_ase/examples/lab4_kostenko/schema_for_dknf.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Dknf
+
+Top level modules:
+	Dknf
+
+} {} {}} D:/quartus_2/model/modelsim_ase/examples/lab4_kostenko/schema_for_ddnf.v {1 {vlog -work work -nocovercells D:/quartus_2/model/modelsim_ase/examples/lab4_kostenko/schema_for_ddnf.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ddnf
+
+Top level modules:
+	Ddnf
+
+} {} {}}
