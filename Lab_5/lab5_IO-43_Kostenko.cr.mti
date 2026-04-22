@@ -1,0 +1,8 @@
+D:/quartus_2/model/modelsim_ase/examples/lab5_kostenko/Lab5_Kostenko.v {1 {vlog -work work -nocovercells D:/quartus_2/model/modelsim_ase/examples/lab5_kostenko/Lab5_Kostenko.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module demux_1_to_5_4bit_assign
+
+Top level modules:
+	demux_1_to_5_4bit_assign
+
+} {} {}}
