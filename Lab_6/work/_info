@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dD:\DKR
+vfull_adder
+IjDcjACU][FiY<Jc>79D4m1
+VK?ii4l0cXNJ<>e8A_Tb@N3
+Z0 dD:\lab6
+Z1 w1778855044
+Z2 8D:/lab6/7rozradsum.v
+Z3 FD:/lab6/7rozradsum.v
+L0 2
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 Igj[Y8K3RUCYO80NM[4`61
+!s85 0
+!s101 -O0
+vstandart_sum_7_bit
+I>OgB3ej87D:SaSWGeCbn90
+VH0ALMJ;AV69c:ZJFnNYZf2
+Z7 dD:\lab6
+w1778855093
+8D:/lab6/standart_sum.v
+FD:/lab6/standart_sum.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 ePll8O00?UdmeDiK^zb?>0
+!s85 0
+!s101 -O0
+vsumator_7_bit_struct
+IRd=31>CJXC3gZ7i:`1JZM1
+VdHj70=Sg<Bk@bl_AoN^@^0
+R7
+R1
+R2
+R3
+L0 11
+R4
+r1
+31
+R5
+R6
+!s100 bV]?12>?JRlF7`_29OfUR3
+!s85 0
+!s101 -O0
+vtestsummator
+!s100 `loGZY?n2fU4g;TkdX[fg0
+I6XVd0nelo[W57OCH_DhF^1
+V@HcFkhVaWZ9b5GIE5P6_=2
+R7
+w1778855226
+8D:/lab6/testbench.v
+FD:/lab6/testbench.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6

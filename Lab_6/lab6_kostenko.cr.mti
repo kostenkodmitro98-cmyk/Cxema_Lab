@@ -1,0 +1,16 @@
+D:/lab6/standart_sum.v {1 {vlog -work work -nocovercells D:/lab6/standart_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module standart_sum_7_bit
+
+Top level modules:
+	standart_sum_7_bit
+
+} {} {}} D:/lab6/7rozradsum.v {1 {vlog -work work -nocovercells D:/lab6/7rozradsum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module full_adder
+-- Compiling module sumator_7_bit_struct
+
+Top level modules:
+	sumator_7_bit_struct
+
+} {} {}}

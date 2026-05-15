@@ -1,0 +1,16 @@
+module standart_sum_7_bit(
+    input [6:0] A, B,   
+    input Cin,          
+    output [6:0] S,
+    output Cout         
+);
+    
+    wire [7:0] temp_sum;
+    
+    assign temp_sum = A + B + Cin;
+    assign S = temp_sum[6:0];
+    
+     
+    assign Cout = temp_sum[7];
+    
+endmodule
